@@ -1,0 +1,19 @@
+number of new things learnt from the video: 
+
+# to get a basic template just press ! then the enter key. 
+# to get the comments in visual studio code just press ctrl and /.
+# btw the ctrl and / might work for everything out there I think. 
+# to give an element an Id just use 
+    div#ID
+# to use multiple Ids and classes with a tag just use the following thing 
+   div#ID.class
+# one more thing I learnt is that we can run the live server simultaneously while we make 
+# changes in the program.
+# class = "class1 class2" these are two classes 
+# all websites are upside down trees 
+
+
+
+
+# Now I'll list all the classes used in the makin of this website
+# 
